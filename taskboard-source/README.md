@@ -1,4 +1,4 @@
-TaskBoard — Semana 7
+TaskBoard — Semana 8
 
 Integración de Sistemas · UPED · Ciclo 02-2026
 
@@ -7,7 +7,7 @@ Tema: Eloquent ORM y modelo de datos
 
 1. Descripción del proyecto
 
-Este proyecto corresponde al trabajo de TaskBoard de la Semana 7.
+Este proyecto corresponde al trabajo de TaskBoard de la Semana 8.
 
 En esta semana se trabaja principalmente con Eloquent ORM, utilizando modelos, migraciones y relaciones entre las entidades del sistema.
 
